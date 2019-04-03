@@ -48,6 +48,8 @@ In this part of the workshop, I'll take us through some of the examples I used i
 ## Best Practices Pecha Kucha 
 ### (20 seconds x 20 slides = 7 minutes, plus transition time)
 
+https://docs.google.com/presentation/d/e/2PACX-1vTXMKkAhOD7yPHUTp51_TuKKYCDTA7qfgxhSSkddb_U__NB1pwgSrEAGVrX4QnqNniftBkhxrVXaLla/pub?start=false&loop=false&delayms=20000
+
 ## Activity 2 
 ### (approximately 20 minutes)
 
