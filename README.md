@@ -1,7 +1,9 @@
 # Web-scraping and Web-crawling with Python
-Itinerary and various materials for "Web-scraping and Web-crawling with Python" Workshop, University of Pittsburgh, April 2019
+Schedule and various materials for "Web-scraping and Web-crawling with Python" Workshop, University of Pittsburgh, April 2019
 
-# Itinerary
+# Schedule
+
+## Workshop Begins at 1 p.m.
 
 ## Install Anaconda, connect to wifi 
 ### (approximately 15 minutes)
