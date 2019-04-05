@@ -1,4 +1,7 @@
 # Web-scraping and Web-crawling with Python
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mjlavin80/webscraping-python-pitt-2019/master?filepath=https%3A%2F%2Fgithub.com%2Fmjlavin80%2Fwebscraping-python-pitt-2019%2Fblob%2Fmaster%2Fscraping_examples%2FScrape-Munge-Star-Trek.ipynb)
+
 Schedule and various materials for "Web-scraping and Web-crawling with Python" Workshop, University of Pittsburgh, April 2019
 
 # Schedule
